@@ -3,7 +3,7 @@
     private static void Main(string[] args)
     {
         Console.WriteLine("**********************");
-        Console.WriteLine("   MENU DE OPCIONES");
+        Console.WriteLine("   Menu de Opciones");
         Console.WriteLine("**********************");
         int opc;
         int num1, num2;
